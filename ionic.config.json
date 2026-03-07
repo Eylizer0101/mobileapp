@@ -1,0 +1,8 @@
+{
+  "name": "mobileapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "6bcc2317"
+}
